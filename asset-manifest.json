@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nfl-team-app/static/css/main.7a034099.css",
+    "main.js": "/nfl-team-app/static/js/main.a6d49496.js",
+    "static/media/SuperchargeStraight.otf": "/nfl-team-app/static/media/SuperchargeStraight.e555ef567cd8d7a4a6a1.otf",
+    "index.html": "/nfl-team-app/index.html",
+    "main.7a034099.css.map": "/nfl-team-app/static/css/main.7a034099.css.map",
+    "main.a6d49496.js.map": "/nfl-team-app/static/js/main.a6d49496.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a034099.css",
+    "static/js/main.a6d49496.js"
+  ]
+}
